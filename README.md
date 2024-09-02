@@ -4,6 +4,9 @@
 
 The Financial Tracking App is a cool tool designed to help me manage personal finances with ease. It provides a comprehensive dashboard in Looker Studio that pulls real-time data from Google Sheets, offering a clear view of my financial health. The dashboard includes detailed insights into income, expenses, current balance, savings, and categorization of expenses.
 
+![Dashboard Overview](dashboard.png)
+
+
 **Features**
 
 Real-Time Data Integration: Automatically syncs with Google Sheets to provide up-to-date financial information.
